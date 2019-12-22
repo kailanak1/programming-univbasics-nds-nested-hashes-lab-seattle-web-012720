@@ -16,7 +16,6 @@ assembled_aoh = [
   KATE_G, 
   BRUCE_G
   ]
-  print assembled_aoh
 end
 
 def literal_aoh
